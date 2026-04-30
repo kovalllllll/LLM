@@ -1,0 +1,294 @@
+{
+  "1": {
+    "cuisine_type": "ukrainian",
+    "dishes": [
+      {
+        "name": "борщ із пампушками",
+        "quantity": 2
+      },
+      {
+        "name": "вареники з картоплею",
+        "quantity": 3
+      },
+      {
+        "name": "холодець",
+        "quantity": 1
+      }
+    ],
+    "special_requests": [
+      "без часнику у пампушках"
+    ]
+  },
+  "2": {
+    "cuisine_type": "european",
+    "dishes": [
+      {
+        "name": "піца Маргарита",
+        "quantity": 1
+      },
+      {
+        "name": "картопля фрі велика",
+        "quantity": 2
+      }
+    ],
+    "special_requests": [
+      "соус ранч окремо",
+      "без цибулі у піці"
+    ]
+  },
+  "3": {
+    "cuisine_type": "asian",
+    "dishes": [
+      {
+        "name": "суші сет Філадельфія",
+        "quantity": 40
+      },
+      {
+        "name": "том-ям",
+        "quantity": 2
+      },
+      {
+        "name": "spring rolls",
+        "quantity": 1
+      }
+    ],
+    "special_requests": [
+      "дуже гостро"
+    ]
+  },
+  "4": {
+    "cuisine_type": "desserts",
+    "dishes": [
+      {
+        "name": "шоколадний фондан",
+        "quantity": 3
+      },
+      {
+        "name": "тірамісу",
+        "quantity": 2
+      }
+    ],
+    "special_requests": [
+      "без горіхів"
+    ]
+  },
+  "5": {
+    "cuisine_type": "fastfood",
+    "dishes": [
+      {
+        "name": "бургер класик",
+        "quantity": 2
+      },
+      {
+        "name": "nuggets",
+        "quantity": 10
+      },
+      {
+        "name": "Кока-Кола 0.5 без цукру",
+        "quantity": 2
+      }
+    ],
+    "special_requests": [
+      "без огірків у бургері"
+    ]
+  },
+  "6": {
+    "cuisine_type": "ukrainian",
+    "dishes": [
+      {
+        "name": "котлета по-київськи",
+        "quantity": 2
+      },
+      {
+        "name": "деруни зі сметаною",
+        "quantity": 3
+      },
+      {
+        "name": "узвар",
+        "quantity": 2
+      }
+    ],
+    "special_requests": [
+      "без солі"
+    ]
+  },
+  "7": {
+    "cuisine_type": "european",
+    "dishes": [
+      {
+        "name": "паста карбонара",
+        "quantity": 1
+      },
+      {
+        "name": "різото з грибами",
+        "quantity": 2
+      },
+      {
+        "name": "брускетта асорті",
+        "quantity": 1
+      },
+      {
+        "name": "тірамісу",
+        "quantity": 1
+      }
+    ],
+    "special_requests": [
+      "без глютену"
+    ]
+  },
+  "8": {
+    "cuisine_type": "asian",
+    "dishes": [
+      {
+        "name": "рамен з куркою",
+        "quantity": 1
+      },
+      {
+        "name": "гьоза",
+        "quantity": 6
+      },
+      {
+        "name": "онігірі",
+        "quantity": 3
+      }
+    ],
+    "special_requests": [
+      "середньої гостроти",
+      "без морепродуктів"
+    ]
+  },
+  "9": {
+    "cuisine_type": "fastfood",
+    "dishes": [
+      {
+        "name": "шаурма з куркою",
+        "quantity": 2
+      },
+      {
+        "name": "картопля по-селянськи велика",
+        "quantity": 1
+      },
+      {
+        "name": "Pepsi 1 л",
+        "quantity": 1
+      }
+    ],
+    "special_requests": [
+      "не гостро"
+    ]
+  },
+  "10": {
+    "cuisine_type": "desserts",
+    "dishes": [
+      {
+        "name": "чізкейк Нью-Йорк",
+        "quantity": 2
+      },
+      {
+        "name": "панакота",
+        "quantity": 1
+      }
+    ],
+    "special_requests": [
+      "без полуничного топінгу",
+      "лише шоколадний топінг"
+    ]
+  },
+  "11": {
+    "cuisine_type": "ukrainian",
+    "dishes": [
+      {
+        "name": "галушки з м'ясом",
+        "quantity": 2
+      },
+      {
+        "name": "юшка рибна",
+        "quantity": 1
+      },
+      {
+        "name": "хліб бородинський",
+        "quantity": 3
+      }
+    ],
+    "special_requests": [
+      "без перцю"
+    ]
+  },
+  "13": {
+    "cuisine_type": "asian",
+    "dishes": [
+      {
+        "name": "пад-тай з куркою",
+        "quantity": 1
+      },
+      {
+        "name": "смажений рис із яйцем",
+        "quantity": 2
+      },
+      {
+        "name": "курячий сатай",
+        "quantity": 6
+      }
+    ],
+    "special_requests": [
+      "максимально гостро"
+    ]
+  },
+  "16": {
+    "cuisine_type": "ukrainian",
+    "dishes": [
+      {
+        "name": "вареники з вишнею",
+        "quantity": 3
+      },
+      {
+        "name": "сирники зі сметаною",
+        "quantity": 2
+      }
+    ],
+    "special_requests": [
+      "цукор окремо"
+    ]
+  },
+  "19": {
+    "cuisine_type": "fastfood",
+    "dishes": [
+      {
+        "name": "хот-дог класичний",
+        "quantity": 3
+      },
+      {
+        "name": "картопля фрі середня",
+        "quantity": 1
+      },
+      {
+        "name": "кетчуп",
+        "quantity": 3
+      }
+    ],
+    "special_requests": [
+      "без гірчиці"
+    ]
+  },
+  "20": {
+    "cuisine_type": "desserts",
+    "dishes": [
+      {
+        "name": "медівник домашній",
+        "quantity": 1
+      },
+      {
+        "name": "профітролі",
+        "quantity": 12
+      },
+      {
+        "name": "чай трав'яний",
+        "quantity": 4
+      }
+    ],
+    "special_requests": [
+      "різати торт на 8 шматків",
+      "без цукрової пудри"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "zero_shot": {
+    "prompt_tokens": 3379,
+    "completion_tokens": 2364,
+    "elapsed": 122.77999999999999,
+    "valid": 16,
+    "valid_rate": 80.0,
+    "avg_prompt_tokens": 169.0,
+    "avg_completion_tokens": 118.0,
+    "avg_elapsed": 6.14,
+    "total_tokens": 5743,
+    "accuracy_cuisine": 0.8,
+    "accuracy_dishes": 0.6,
+    "accuracy_requests": 0.4,
+    "accuracy_overall": 0.6
+  },
+  "few_shot": {
+    "prompt_tokens": 7249,
+    "completion_tokens": 2135,
+    "elapsed": 120.9,
+    "valid": 15,
+    "valid_rate": 75.0,
+    "avg_prompt_tokens": 362.0,
+    "avg_completion_tokens": 107.0,
+    "avg_elapsed": 6.04,
+    "total_tokens": 9384,
+    "accuracy_cuisine": 0.6,
+    "accuracy_dishes": 0.53,
+    "accuracy_requests": 0.2,
+    "accuracy_overall": 0.44
+  },
+  "cot": {
+    "prompt_tokens": 4497,
+    "completion_tokens": 7179,
+    "elapsed": 365.27,
+    "valid": 14,
+    "valid_rate": 70.0,
+    "avg_prompt_tokens": 225.0,
+    "avg_completion_tokens": 359.0,
+    "avg_elapsed": 18.26,
+    "total_tokens": 11676,
+    "accuracy_cuisine": 0.6,
+    "accuracy_dishes": 0.53,
+    "accuracy_requests": 0.13,
+    "accuracy_overall": 0.42
+  },
+  "self_consistency": {
+    "prompt_tokens": 5990,
+    "completion_tokens": 5716,
+    "elapsed": 314.05,
+    "valid": 4,
+    "valid_rate": 20.0,
+    "avg_prompt_tokens": 300.0,
+    "avg_completion_tokens": 286.0,
+    "avg_elapsed": 15.7,
+    "total_tokens": 11706,
+    "accuracy_cuisine": 0.13,
+    "accuracy_dishes": 0.13,
+    "accuracy_requests": 0.0,
+    "accuracy_overall": 0.09
+  }
+}

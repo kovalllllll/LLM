@@ -1,0 +1,324 @@
+{
+  "1": {
+    "cuisine_type": "ukrainian",
+    "dishes": [
+      {
+        "name": "борщ із пампушками",
+        "quantity": 2
+      },
+      {
+        "name": "вареники з картоплею",
+        "quantity": 3
+      },
+      {
+        "name": "холодець",
+        "quantity": 1
+      }
+    ],
+    "special_requests": [
+      "Без часнику у пампушках"
+    ]
+  },
+  "2": {
+    "cuisine_type": "european",
+    "dishes": [
+      {
+        "name": "піца Маргарита",
+        "quantity": 1
+      },
+      {
+        "name": "картопля фрі велика",
+        "quantity": 2
+      }
+    ],
+    "special_requests": [
+      "соус ранч окремо",
+      "без цибулі у піці"
+    ]
+  },
+  "3": {
+    "cuisine_type": "asian",
+    "dishes": [
+      {
+        "name": "суші сет Філадельфія",
+        "quantity": 40
+      },
+      {
+        "name": "том-ям гострий",
+        "quantity": 2
+      },
+      {
+        "name": "spring rolls",
+        "quantity": 1
+      }
+    ],
+    "special_requests": [
+      "Дуже гостро"
+    ]
+  },
+  "4": {
+    "cuisine_type": "desserts",
+    "dishes": [
+      {
+        "name": "шоколадний фондан",
+        "quantity": 3
+      },
+      {
+        "name": "тірамісу",
+        "quantity": 2
+      }
+    ],
+    "special_requests": [
+      "Без горіхів (алергія)",
+      "доставте до 19:00"
+    ]
+  },
+  "5": {
+    "cuisine_type": "fastfood",
+    "dishes": [
+      {
+        "name": "бургер класик",
+        "quantity": 2
+      },
+      {
+        "name": "nuggets",
+        "quantity": 10
+      },
+      {
+        "name": "Кока-Колу 0.5 без цукру",
+        "quantity": 2
+      }
+    ],
+    "special_requests": [
+      "Без огірків у бургері"
+    ]
+  },
+  "6": {
+    "cuisine_type": "ukrainian",
+    "dishes": [
+      {
+        "name": "котлета по-київськи",
+        "quantity": 2
+      },
+      {
+        "name": "деруни зі сметаною",
+        "quantity": 3
+      },
+      {
+        "name": "узвар",
+        "quantity": 2
+      }
+    ],
+    "special_requests": [
+      "без солі"
+    ]
+  },
+  "7": {
+    "cuisine_type": "european",
+    "dishes": [
+      {
+        "name": "Паста карбонара",
+        "quantity": 1
+      },
+      {
+        "name": "різото з грибами",
+        "quantity": 2
+      },
+      {
+        "name": "брускетта асорті",
+        "quantity": 1
+      },
+      {
+        "name": "тірамісу",
+        "quantity": 1
+      }
+    ],
+    "special_requests": [
+      "Без глютену, якщо можливо"
+    ]
+  },
+  "8": {},
+  "9": {
+    "cuisine_type": "fastfood",
+    "dishes": [
+      {
+        "name": "шаурма з куркою",
+        "quantity": 2
+      },
+      {
+        "name": "картопля по-селянськи (велика порція)",
+        "quantity": 1
+      },
+      {
+        "name": "Pepsi 1 л",
+        "quantity": 1
+      }
+    ],
+    "special_requests": [
+      "без гострого",
+      "для дітей"
+    ]
+  },
+  "10": {},
+  "11": {
+    "cuisine_type": "european",
+    "dishes": [
+      {
+        "name": "Галушки з м'ясом",
+        "quantity": 2
+      },
+      {
+        "name": "Юшка рибна",
+        "quantity": 1
+      },
+      {
+        "name": "Хліб бородинський",
+        "quantity": 3
+      }
+    ],
+    "special_requests": [
+      "без перцю"
+    ]
+  },
+  "12": {},
+  "13": {
+    "cuisine_type": "asian",
+    "dishes": [
+      {
+        "name": "Пад-тай з куркою",
+        "quantity": 1
+      },
+      {
+        "name": "Смажений рис із яйцем",
+        "quantity": 2
+      },
+      {
+        "name": "Курячий сатай",
+        "quantity": 6
+      }
+    ],
+    "special_requests": [
+      "Максимально гостро",
+      "я люблю дуже пряне"
+    ]
+  },
+  "14": {
+    "cuisine_type": "fastfood",
+    "dishes": [
+      {
+        "name": "бургер з беконом",
+        "quantity": 3
+      },
+      {
+        "name": "картопля фрі (велика)",
+        "quantity": 1
+      },
+      {
+        "name": "мілкшейк шоколадний",
+        "quantity": 2
+      }
+    ],
+    "special_requests": [
+      "без майонезу у всіх бургерах"
+    ]
+  },
+  "15": {},
+  "16": {
+    "cuisine_type": "ukrainian",
+    "dishes": [
+      {
+        "name": "Вареники з вишнею",
+        "quantity": 3
+      },
+      {
+        "name": "Сирники із сметаною",
+        "quantity": 2
+      }
+    ],
+    "special_requests": [
+      "Цукор окремо, не сипати зверху"
+    ]
+  },
+  "17": {
+    "cuisine_type": "european",
+    "dishes": [
+      {
+        "name": "Стейк рибай середнє прожарювання",
+        "quantity": 2
+      },
+      {
+        "name": "Картопля гратен",
+        "quantity": 1
+      },
+      {
+        "name": "Крем-суп із цибулею",
+        "quantity": 2
+      }
+    ],
+    "special_requests": [
+      "без трюфельного масла"
+    ]
+  },
+  "18": {
+    "cuisine_type": "asian",
+    "dishes": [
+      {
+        "name": "Philadelphia roll",
+        "quantity": 32
+      },
+      {
+        "name": "місо-суп",
+        "quantity": 2
+      },
+      {
+        "name": "унагі",
+        "quantity": 1
+      }
+    ],
+    "special_requests": [
+      "не дуже гостро",
+      "wasabi окремо"
+    ]
+  },
+  "19": {
+    "cuisine_type": "fastfood",
+    "dishes": [
+      {
+        "name": "Хот-дог класичний",
+        "quantity": 3
+      },
+      {
+        "name": "Картопля фрі середня",
+        "quantity": 1
+      },
+      {
+        "name": "Кетчуп",
+        "quantity": 3
+      }
+    ],
+    "special_requests": [
+      "Без гірчиці у всіх хот-догах"
+    ]
+  },
+  "20": {
+    "cuisine_type": "desserts",
+    "dishes": [
+      {
+        "name": "медівник домашній",
+        "quantity": 1
+      },
+      {
+        "name": "профітролі",
+        "quantity": 12
+      },
+      {
+        "name": "чай трав'яний",
+        "quantity": 4
+      }
+    ],
+    "special_requests": [
+      "різати на 8 шматків",
+      "Без цукрової пудри зверху"
+    ]
+  }
+}

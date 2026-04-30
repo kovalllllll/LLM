@@ -1,0 +1,306 @@
+{
+  "1": {
+    "cuisine_type": "european",
+    "dishes": [
+      {
+        "name": "борщ із пампушками",
+        "quantity": 2
+      },
+      {
+        "name": "вареники з картоплею",
+        "quantity": 3
+      },
+      {
+        "name": "холодець",
+        "quantity": 1
+      }
+    ],
+    "special_requests": [
+      "без часнику у пампушках"
+    ]
+  },
+  "2": {
+    "cuisine_type": "european",
+    "dishes": [
+      {
+        "name": "піца Маргарита",
+        "quantity": 1
+      },
+      {
+        "name": "картопля фрі велика",
+        "quantity": 2
+      }
+    ],
+    "special_requests": [
+      "соус ранч окремо",
+      "без цибулі у піці"
+    ]
+  },
+  "3": {},
+  "4": {
+    "cuisine_type": "desserts",
+    "dishes": [
+      {
+        "name": "шоколадний фондан",
+        "quantity": 3
+      },
+      {
+        "name": "тірамісу",
+        "quantity": 2
+      }
+    ],
+    "special_requests": [
+      "без горіхів (алергія)",
+      "доставте до 19:00"
+    ]
+  },
+  "5": {},
+  "6": {
+    "cuisine_type": "european",
+    "dishes": [
+      {
+        "name": "котлета по-київськи",
+        "quantity": 2
+      },
+      {
+        "name": "деруни зі сметаною",
+        "quantity": 3
+      },
+      {
+        "name": "узвар",
+        "quantity": 2
+      }
+    ],
+    "special_requests": [
+      "без солі"
+    ]
+  },
+  "7": {
+    "cuisine_type": "european",
+    "dishes": [
+      {
+        "name": "паста карбонара",
+        "quantity": 1
+      },
+      {
+        "name": "ризото з грибами",
+        "quantity": 2
+      },
+      {
+        "name": "брускетта асорті",
+        "quantity": 1
+      },
+      {
+        "name": "тірамісу",
+        "quantity": 1
+      }
+    ],
+    "special_requests": [
+      "без глютену",
+      "якщо можливо"
+    ]
+  },
+  "8": {
+    "cuisine_type": "asian",
+    "dishes": [
+      {
+        "name": "рамен з куркою середньої гостроти",
+        "quantity": 1
+      },
+      {
+        "name": "гьоза",
+        "quantity": 6
+      },
+      {
+        "name": "онігірі",
+        "quantity": 3
+      }
+    ],
+    "special_requests": [
+      "без морепродуктів"
+    ]
+  },
+  "9": {
+    "cuisine_type": "fastfood",
+    "dishes": [
+      {
+        "name": "шаурма з куркою",
+        "quantity": 2
+      },
+      {
+        "name": "картопля по-селянськи велика порція",
+        "quantity": 1
+      },
+      {
+        "name": "Pepsi 1 л",
+        "quantity": 1
+      }
+    ],
+    "special_requests": [
+      "гостре не треба",
+      "дітям беремо"
+    ]
+  },
+  "10": {
+    "cuisine_type": "desserts",
+    "dishes": [
+      {
+        "name": "чізкейк Нью-Йорк",
+        "quantity": 2
+      },
+      {
+        "name": "панакота",
+        "quantity": 1
+      }
+    ],
+    "special_requests": [
+      "без полуничного топінгу",
+      "лише шоколадний"
+    ]
+  },
+  "11": {},
+  "12": {
+    "cuisine_type": "european",
+    "dishes": [
+      {
+        "name": "піца пепероні велика",
+        "quantity": 1
+      },
+      {
+        "name": "лазанья болоньєзе",
+        "quantity": 1
+      },
+      {
+        "name": "салат Цезар",
+        "quantity": 2
+      }
+    ],
+    "special_requests": [
+      "соус до піци гострий",
+      "зайву олію не лити"
+    ]
+  },
+  "13": {
+    "cuisine_type": "asian",
+    "dishes": [
+      {
+        "name": "пад-тай з куркою",
+        "quantity": 1
+      },
+      {
+        "name": "смажений рис із яйцем",
+        "quantity": 2
+      },
+      {
+        "name": "курячий сатай",
+        "quantity": 6
+      }
+    ],
+    "special_requests": [
+      "максимально гостро",
+      "я люблю дуже пряне"
+    ]
+  },
+  "14": {
+    "cuisine_type": "fastfood",
+    "dishes": [
+      {
+        "name": "бургер з беконом",
+        "quantity": 3
+      },
+      {
+        "name": "картопля фрі велика",
+        "quantity": 1
+      },
+      {
+        "name": "мілкшейк шоколадний",
+        "quantity": 2
+      }
+    ],
+    "special_requests": [
+      "без майонезу"
+    ]
+  },
+  "15": {
+    "cuisine_type": "desserts",
+    "dishes": [
+      {
+        "name": "вафлі з морозивом",
+        "quantity": 2
+      },
+      {
+        "name": "еклери",
+        "quantity": 4
+      },
+      {
+        "name": "кава латте",
+        "quantity": 2
+      }
+    ],
+    "special_requests": [
+      "без лактози"
+    ]
+  },
+  "16": {},
+  "17": {
+    "cuisine_type": "european",
+    "dishes": [
+      {
+        "name": "стейк рибай",
+        "quantity": 2
+      },
+      {
+        "name": "картопля гратен",
+        "quantity": 1
+      },
+      {
+        "name": "крем-суп із цибулею",
+        "quantity": 2
+      }
+    ],
+    "special_requests": [
+      "без трюфельного масла"
+    ]
+  },
+  "18": {},
+  "19": {
+    "cuisine_type": "fastfood",
+    "dishes": [
+      {
+        "name": "хот-дог класичний",
+        "quantity": 3
+      },
+      {
+        "name": "картопля фрі середня",
+        "quantity": 1
+      },
+      {
+        "name": "кетчуп",
+        "quantity": 3
+      }
+    ],
+    "special_requests": [
+      "без гірчиці у всіх хот-догах"
+    ]
+  },
+  "20": {
+    "cuisine_type": "desserts",
+    "dishes": [
+      {
+        "name": "медівник домашній",
+        "quantity": 1
+      },
+      {
+        "name": "профітролі",
+        "quantity": 12
+      },
+      {
+        "name": "чай трав'яний",
+        "quantity": 4
+      }
+    ],
+    "special_requests": [
+      "без цукрової пудри зверху"
+    ]
+  }
+}

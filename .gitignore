@@ -1,0 +1,26 @@
+.env
+.env.*
+*.pem
+
+venv/
+.venv/
+env/
+ENV/
+
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+.idea/
+.vscode/
+*.swp
+*.swo
+
+.DS_Store
+Thumbs.db
+
+# dataset.json
+# gold_labels.json
+# results_*.json
+# metrics.json
